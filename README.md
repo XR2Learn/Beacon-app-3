@@ -4,7 +4,7 @@
 
 Beacon Application 3 is a Unity Project that generates synthetic datasets to train object detection algorithms. This application is focused on hazard detection in industrial conditions and the purpose of the this unity application is to create an appropriate dataset. The scene renders multiple different instances of workers wearing proper safety equipment and while running, it samples and stores frames of the 3D scene along with annotations for each frame.
 
-[![Watch demo video]](https://youtu.be/f09_8rrUqxo)
+[![Watch demo video](https://img.youtube.com/vi/f09_8rrUqxo/maxresdefault.jpg)](https://youtu.be/f09_8rrUqxo)
 
 ## Dependencies
 

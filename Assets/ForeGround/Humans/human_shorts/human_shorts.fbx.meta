@@ -1,0 +1,811 @@
+fileFormatVersion: 2
+guid: 4e1520e4133b7c64eb5743a815049500
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01_-_Default
+    second: {fileID: 2100000, guid: c4aa36bfdfed42d488372b407c5107c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02_-_Default
+    second: {fileID: 2100000, guid: cd92591a615584f4080a5715eb763f24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02___Default
+    second: {fileID: 2100000, guid: 6fddc7269582c4041a872e2674ddfed6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03_-_Default
+    second: {fileID: 2100000, guid: 8d1ab64d8874b1b4ea3b7ce87be53932, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 04_-_Default
+    second: {fileID: 2100000, guid: 3dcdce684e0441846a84efe99cdeeec2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 05_-_Default
+    second: {fileID: 2100000, guid: e37638e6326685147b16c6b503b688e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bodymat
+    second: {fileID: 2100000, guid: c42ce164c9cc1e54d9665e61a881e92d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottommat
+    second: {fileID: 2100000, guid: bf9c6e5a20428ce4196001bdca9539df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultMaterial.001
+    second: {fileID: 2100000, guid: b4b87d273a18c2b4ba96664f5ad329f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Equip1
+    second: {fileID: 2100000, guid: c23710679805c2b4587edd5e79a8996a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass1
+    second: {fileID: 2100000, guid: 8600d44a81886ee48aa1bd500c5118f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hairmat
+    second: {fileID: 2100000, guid: 1e18ed4042c9a034983b4aa888504a66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 6c4dd5ddc6e06ac439d62ae6f44f9628, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: b4dbb3a28ae5f2640b7dbffde05aba5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_0.001
+    second: {fileID: 2100000, guid: de14efd110bde434fa33774a853ad930, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shoesmat
+    second: {fileID: 2100000, guid: 4e53f8902efd462458b79f1cbfe86811, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Topmat
+    second: {fileID: 2100000, guid: bdc23a46e793a334bbe1d41a0c312091, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: defaultMat
+    second: {fileID: 2100000, guid: 13c20fccb3d5d76438de9304e794ea92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: 8601c6bce848c3a4c8e97ca1f2bd8cb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass.002
+    second: {fileID: 2100000, guid: 067e32e9567ad824492dcc977e15e0bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: helmet_constructor_base
+    second: {fileID: 2100000, guid: 906c980a23c3fd042acdc9fce307190e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: helmet_firefighter_base
+    second: {fileID: 2100000, guid: 24b531b92ef78874b95f89bc739ecd64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: helmet_simple_base
+    second: {fileID: 2100000, guid: 8f7d3f752a86e884c94b7b66432f10e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: helmet_textured_base
+    second: {fileID: 2100000, guid: 11da1cde368bf7b4a8584cd532ffe518, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: high-vis-vest-color-1.001
+    second: {fileID: 2100000, guid: e92d246aa70d8cb4796edb6fd07d0005, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mp_m_freemode_01_mp_m_tlmctask_000_u_task_001_u_high0.001
+    second: {fileID: 2100000, guid: 3989489c19e615740b123585a5e99f69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton
+    second: {fileID: 2100000, guid: baa1fb7dc8778cd4995295833d3dd3a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton.001
+    second: {fileID: 2100000, guid: c9e7aeee2505796438c46c52aa4d9d63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton.002
+    second: {fileID: 2100000, guid: c87dd154b9382d5419c8ae43d85ae4aa, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 02___Default_baseColor
+    second: {fileID: 2800000, guid: 6104824ef9fd6f844bac84f752df43f7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 02___Default_normal
+    second: {fileID: 2800000, guid: 108db58ab2456404f854af72ef724d61, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Black_colour
+    second: {fileID: 2800000, guid: a434e3eccedeb464b9f77a3eba24ad03, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bodymat_baseColor
+    second: {fileID: 2800000, guid: 89ab98145f0d3414bbb7de8cf5f1873a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bodymat_normal
+    second: {fileID: 2800000, guid: 2e1b198d9c1f137438eb809d1ad90b64, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bottommat_baseColor
+    second: {fileID: 2800000, guid: 19e2568c9a03a804f90027b1e0a84f72, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bottommat_normal
+    second: {fileID: 2800000, guid: 26fbdf3ab09444a48b606fc567048cc5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: DefaultMaterial_baseColor
+    second: {fileID: 2800000, guid: 9da8a8b2bb74ab74f8ed4a789e952037, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: DefaultMaterial_normal
+    second: {fileID: 2800000, guid: 7cf018ad67b545348a6cf52357928670, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Equip1_baseColor
+    second: {fileID: 2800000, guid: 9ac0bcce10d4b2d4f8f76512cf185056, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Equip1_normal
+    second: {fileID: 2800000, guid: fefbc0fe808ca9e41938a04637c0b4d3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Hairmat_baseColor
+    second: {fileID: 2800000, guid: 2e6a81a2cf33b764f8871a6eebc03051, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Hairmat_normal
+    second: {fileID: 2800000, guid: 5fc12071f07d8634c87546159de006eb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material_0.001_baseColor
+    second: {fileID: 2800000, guid: 4df2ac06740d7a04791dbd824af1afea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material_0.001_normal
+    second: {fileID: 2800000, guid: 4968e72729cbe9b4fac1ca2c44f8258c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Shoesmat_baseColor
+    second: {fileID: 2800000, guid: 1fd34965a12f1634db72ebee08c058ad, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Shoesmat_normal
+    second: {fileID: 2800000, guid: df72288f0a4fd8b4a9b74d7427039fcc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Topmat_baseColor
+    second: {fileID: 2800000, guid: a18a938e26864ea42bb817a29682d9a7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Topmat_normal
+    second: {fileID: 2800000, guid: 99e460a4088cf6e46b28e49ab6f5432f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: defaultMat_baseColor
+    second: {fileID: 2800000, guid: 5d9ff8c6e8892974cbf619bfc0cb4f4a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: high-vis-vest-color-1_baseColor
+    second: {fileID: 2800000, guid: 11f2687295ef56d45be31409817f89bb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: high-vis-vest-color-1_baseColor_blue
+    second: {fileID: 2800000, guid: 109bb72b81bc78342b436688e6c0145a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: high-vis-vest-color-1_normal
+    second: {fileID: 2800000, guid: c03afada2ce76514ea5bf845edf63a47, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lambert1_baseColor
+    second: {fileID: 2800000, guid: 95253e487c5644f43b8206a7fe0e0918, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 29
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: human_shorts(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hand_left
+      parentName: human_shorts(Clone)
+      position: {x: 4.656613e-10, y: -0.0000000055879354, z: -4.3655746e-11}
+      rotation: {x: 0.00000008429371, y: 0, z: -0, w: 1}
+      scale: {x: 0.009090911, y: 0.0090909125, z: 0.0090909125}
+    - name: hand_right
+      parentName: human_shorts(Clone)
+      position: {x: 4.656613e-10, y: -0.0000000055879354, z: -4.3655746e-11}
+      rotation: {x: 0.00000008429371, y: 0, z: -0, w: 1}
+      scale: {x: 0.009090911, y: 0.0090909125, z: 0.0090909125}
+    - name: Object_11
+      parentName: human_shorts(Clone)
+      position: {x: 4.656613e-10, y: -0.0000000055879354, z: -4.3655746e-11}
+      rotation: {x: 0.00000008429371, y: 0, z: -0, w: 1}
+      scale: {x: 0.009090911, y: 0.0090909125, z: 0.0090909125}
+    - name: Object_11.017
+      parentName: human_shorts(Clone)
+      position: {x: 2.3283064e-10, y: -0.0000000037252903, z: -2.1827873e-11}
+      rotation: {x: 0.00000008429371, y: 0, z: -0, w: 1}
+      scale: {x: 0.009090911, y: 0.009090911, z: 0.009090911}
+    - name: Object_11.018
+      parentName: human_shorts(Clone)
+      position: {x: 4.656613e-10, y: -0.0000000055879354, z: -4.3655746e-11}
+      rotation: {x: 0.00000008429371, y: 0, z: -0, w: 1}
+      scale: {x: 0.009090911, y: 0.0090909125, z: 0.0090909125}
+    - name: Object_15
+      parentName: human_shorts(Clone)
+      position: {x: 4.656613e-10, y: -0.0000000055879354, z: -4.3655746e-11}
+      rotation: {x: 0.00000008429371, y: 0, z: -0, w: 1}
+      scale: {x: 0.009090911, y: 0.0090909125, z: 0.0090909125}
+    - name: Object_18
+      parentName: human_shorts(Clone)
+      position: {x: 4.656613e-10, y: -0.0000000055879354, z: -4.3655746e-11}
+      rotation: {x: 0.00000008429371, y: 0, z: -0, w: 1}
+      scale: {x: 0.009090911, y: 0.0090909125, z: 0.0090909125}
+    - name: Object_19
+      parentName: human_shorts(Clone)
+      position: {x: 4.656613e-10, y: -0.0000000055879354, z: -4.3655746e-11}
+      rotation: {x: 0.00000008429371, y: 0, z: -0, w: 1}
+      scale: {x: 0.009090911, y: 0.0090909125, z: 0.0090909125}
+    - name: Vest_1
+      parentName: human_shorts(Clone)
+      position: {x: -0.0011267151, y: 1.066275, z: -0.04062154}
+      rotation: {x: 0.7071069, y: 0.0000000052683524, z: -0.0000000026341758, w: 0.7071067}
+      scale: {x: 0.97148734, y: 1.0479974, z: 1.0479974}
+    - name: Vest_3
+      parentName: human_shorts(Clone)
+      position: {x: -0.00039792038, y: 1.1765542, z: -0.05092603}
+      rotation: {x: -0.00000008146032, y: 0, z: -0, w: 1}
+      scale: {x: 0.956075, y: 0.95607525, z: 0.95607525}
+    - name: Human_1
+      parentName: human_shorts(Clone)
+      position: {x: -0.0013684034, y: 0.020456672, z: 0.00010779725}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 79.35883, y: 79.35883, z: 79.35883}
+    - name: spine
+      parentName: Human_1
+      position: {x: -0, y: 0.00055199995, z: 0.010098999}
+      rotation: {x: 0.7904554, y: 0, z: -0, w: 0.6125196}
+      scale: {x: 1, y: 0.99999994, z: 0.9999999}
+    - name: spine.001
+      parentName: spine
+      position: {x: -0, y: 0.0015221953, z: -1.4901161e-10}
+      rotation: {x: -0.0644764, y: 0, z: -0, w: 0.99791926}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: spine.002
+      parentName: spine.001
+      position: {x: -0, y: 0.0013663665, z: 2.6193447e-11}
+      rotation: {x: -0.077464156, y: 0, z: -0, w: 0.99699515}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: spine.003
+      parentName: spine.002
+      position: {x: -0, y: 0.001728875, z: 0}
+      rotation: {x: 0.001627149, y: 0, z: -0, w: 0.9999987}
+      scale: {x: 1, y: 1, z: 1}
+    - name: spine.004
+      parentName: spine.003
+      position: {x: -0, y: 0.0019257846, z: -9.3132255e-12}
+      rotation: {x: 0.2017378, y: 0, z: -0, w: 0.97943956}
+      scale: {x: 1, y: 0.9999998, z: 0.99999994}
+    - name: spine.005
+      parentName: spine.004
+      position: {x: -0, y: 0.00066163484, z: -6.7986544e-10}
+      rotation: {x: -0.09485751, y: 0, z: -0, w: 0.9954909}
+      scale: {x: 1, y: 1, z: 1}
+    - name: spine.006
+      parentName: spine.005
+      position: {x: -0, y: 0.00062701234, z: 2.2351741e-10}
+      rotation: {x: -0.093711965, y: 0, z: -0, w: 0.9955994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Object_7
+      parentName: spine.006
+      position: {x: 0.000017243245, y: -0.018070778, z: -0.00024835838}
+      rotation: {x: 0.000000106645444, y: 0, z: -0, w: 1}
+      scale: {x: 0.0001145545, y: 0.000114554525, z: 0.00011455451}
+    - name: Object_9
+      parentName: spine.006
+      position: {x: 0.000017243245, y: -0.018070778, z: -0.00024835838}
+      rotation: {x: 0.000000106645444, y: 0, z: -0, w: 1}
+      scale: {x: 0.0001145545, y: 0.000114554525, z: 0.00011455451}
+    - name: helmet_firefighter
+      parentName: spine.006
+      position: {x: -0.000114000286, y: 1.584319, z: 0.010101012}
+      rotation: {x: -0.16882342, y: -0.68014127, z: 0.16546966, w: 0.69392097}
+      scale: {x: 0.1424581, y: 0.14245808, z: 0.14245805}
+    - name: helmet_constructor
+      parentName: spine.006
+      position: {x: -0.000113999704, y: 1.5885171, z: 0.03176682}
+      rotation: {x: -0.7344365, y: -1.6463781e-17, z: 1.2581106e-17, w: 0.67867744}
+      scale: {x: 0.0918208, y: 0.09182085, z: 0.09182084}
+    - name: helmet_simple
+      parentName: spine.006
+      position: {x: 4.656613e-10, y: 1.5615387, z: 0.027880978}
+      rotation: {x: -0.7819979, y: 0, z: 0, w: 0.62328106}
+      scale: {x: 0.091089845, y: 0.09108989, z: 0.09108989}
+    - name: helmet_textured
+      parentName: spine.006
+      position: {x: 4.656613e-10, y: 1.5460867, z: 0.014980078}
+      rotation: {x: -0.056613956, y: -1.4703303e-18, z: 1.277502e-17, w: 0.99839616}
+      scale: {x: 0.51990604, y: 0.63674265, z: 0.63674265}
+    - name: Glass_2
+      parentName: spine.006
+      position: {x: 0.000022174761, y: 0.00055023836, z: 0.00070871174}
+      rotation: {x: 0.000000022351747, y: -4.5487225e-13, z: 1.8439699e-12, w: 1}
+      scale: {x: 0.00004453947, y: 0.00004453948, z: 0.000044539473}
+    - name: Glass_1
+      parentName: spine.006
+      position: {x: 0.000045239416, y: 0.00084494636, z: 0.0010728097}
+      rotation: {x: 0.028023662, y: -0.000000007552453, z: -0.0000000016498019, w: 0.99960726}
+      scale: {x: 0.00013009971, y: 0.00013010822, z: 0.00013010818}
+    - name: Glass_3
+      parentName: spine.006
+      position: {x: 0.000017728722, y: 0.0005145866, z: 0.00034809194}
+      rotation: {x: 0.000000022351745, y: -4.5476123e-13, z: 1.8437478e-12, w: 1}
+      scale: {x: 0.00018574328, y: 0.00018574338, z: 0.00022099486}
+    - name: Glass_4
+      parentName: spine.006
+      position: {x: 0.000010611636, y: 0.0010525637, z: 0.0002256654}
+      rotation: {x: 0.000000022351749, y: -4.5476123e-13, z: 1.8438588e-12, w: 1}
+      scale: {x: 0.00009750153, y: 0.00011569997, z: 0.00011812152}
+    - name: Hair
+      parentName: spine.006
+      position: {x: 0.000017243246, y: -0.018070778, z: -0.00024835838}
+      rotation: {x: 0.000000106645444, y: 0, z: -0, w: 1}
+      scale: {x: 0.00011455451, y: 0.000114554554, z: 0.00011455454}
+    - name: spine.006_end
+      parentName: spine.006
+      position: {x: -0, y: 0.001983, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: shoulder.L
+      parentName: spine.003
+      position: {x: -0.000183, y: 0.0013722108, z: 0.00078250933}
+      rotation: {x: -0.5659588, y: 0.40879986, z: 0.39755964, w: 0.5954155}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: upper_arm.L
+      parentName: shoulder.L
+      position: {x: -0.0000779154, y: 0.0020079096, z: -0.00020384992}
+      rotation: {x: -0.12805325, y: 0.8563018, z: -0.068005495, w: -0.4957065}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: forearm.L
+      parentName: upper_arm.L
+      position: {x: 3.72529e-10, y: 0.0024123862, z: 0}
+      rotation: {x: 0.07303154, y: -0.017533507, z: -0.014924947, w: 0.9970638}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: hand.L
+      parentName: forearm.L
+      position: {x: 0.0000000014714896, y: 0.002196907, z: -4.0978193e-10}
+      rotation: {x: -0.024697341, y: -0.052901603, z: -0.0113079455, w: 0.9982302}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Glove_1_left.001
+      parentName: hand.L
+      position: {x: 0.00039584129, y: 0.003278823, z: -0.00027650056}
+      rotation: {x: 0.31928337, y: -0.25089088, z: -0.6937261, w: 0.59485793}
+      scale: {x: 0.0013264563, y: 0.0013264563, z: 0.0013264565}
+    - name: Glove_2_left.001
+      parentName: hand.L
+      position: {x: -0.000002861768, y: 0.001817679, z: 0.000028570294}
+      rotation: {x: 0.5268579, y: -0.4988216, z: -0.47480762, w: -0.49815223}
+      scale: {x: 0.004841239, y: 0.004841243, z: 0.004841241}
+    - name: Glove_3_left.001
+      parentName: hand.L
+      position: {x: -0.00012656405, y: 0.00078269927, z: 0.00015838585}
+      rotation: {x: 0.36827463, y: 0.6566293, z: -0.5920437, w: 0.2875693}
+      scale: {x: 0.00016356239, y: 0.00016355603, z: 0.00016355602}
+    - name: Glove_4_left.001
+      parentName: hand.L
+      position: {x: 0.00025026046, y: -0.00010873824, z: -0.00023905993}
+      rotation: {x: 0.67035943, y: 0.66670597, z: -0.20294093, w: -0.25482625}
+      scale: {x: 0.00050386396, y: 0.00030317987, z: 0.00050386396}
+    - name: Glove_5_left.001
+      parentName: hand.L
+      position: {x: -0.00029113374, y: 0.0017231592, z: 0.000020968913}
+      rotation: {x: 0.30079275, y: 0.027577542, z: 0.94724506, w: -0.10719129}
+      scale: {x: 0.013264856, y: 0.013264813, z: 0.013264814}
+    - name: hand.L_end
+      parentName: hand.L
+      position: {x: -0, y: 0.0014222941, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: shoulder.R
+      parentName: spine.003
+      position: {x: 0.000183, y: 0.0013722108, z: 0.00078250933}
+      rotation: {x: -0.5659588, y: -0.40879986, z: -0.39755964, w: 0.5954155}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: upper_arm.R
+      parentName: shoulder.R
+      position: {x: 0.0000779154, y: 0.0020079096, z: -0.00020384992}
+      rotation: {x: 0.12805325, y: 0.8563018, z: -0.068005495, w: 0.4957065}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: forearm.R
+      parentName: upper_arm.R
+      position: {x: -3.72529e-10, y: 0.0024123862, z: 0}
+      rotation: {x: 0.07303154, y: 0.017533507, z: 0.014924947, w: 0.9970638}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: hand.R
+      parentName: forearm.R
+      position: {x: -0.0000000014714896, y: 0.002196907, z: -4.0978193e-10}
+      rotation: {x: -0.024697341, y: 0.052901603, z: 0.0113079455, w: 0.9982302}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Glove_1_right.001
+      parentName: hand.R
+      position: {x: -0.00039458543, y: 0.003313281, z: -0.0002770578}
+      rotation: {x: 0.31874394, y: 0.25153697, z: 0.69271535, w: 0.5960511}
+      scale: {x: 0.0013264554, y: 0.0013264561, z: 0.0013264559}
+    - name: Glove_2_right.001
+      parentName: hand.R
+      position: {x: 0.000025407597, y: 0.0015516421, z: -0.00000873059}
+      rotation: {x: 0.47869864, y: -0.51084715, z: 0.4954148, w: 0.5142441}
+      scale: {x: 0.0051185926, y: 0.005118592, z: 0.005118593}
+    - name: Glove_3_right.001
+      parentName: hand.R
+      position: {x: 0.00008479007, y: 0.0012964561, z: 0.00023447383}
+      rotation: {x: 0.28756902, y: 0.5920436, z: 0.65662926, w: -0.36827496}
+      scale: {x: 0.00016542178, y: 0.0001654218, z: 0.00016542176}
+    - name: Glove_4_right.001
+      parentName: hand.R
+      position: {x: -0.0001853276, y: -0.00004103571, z: -0.00019183963}
+      rotation: {x: 0.25482637, y: -0.2029409, z: -0.66670597, w: 0.6703594}
+      scale: {x: 0.00050386396, y: 0.00030318036, z: 0.0005038666}
+    - name: Glove_5_right.001
+      parentName: hand.R
+      position: {x: 0.00029238858, y: 0.0017576185, z: 0.000020410418}
+      rotation: {x: 0.0728994, y: 0.9401083, z: 0.0599039, w: 0.32755694}
+      scale: {x: 0.013503413, y: 0.013503413, z: 0.013503412}
+    - name: hand.R_end
+      parentName: hand.R
+      position: {x: -0, y: 0.0014222941, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: breast.L
+      parentName: spine.003
+      position: {x: -0.0011839999, y: -0.00004881079, z: -0.00042756848}
+      rotation: {x: -0.000000053512483, y: 0.6969362, z: 0.71713316, w: -0.000000053271993}
+      scale: {x: 1, y: 0.99999964, z: 0.99999994}
+    - name: breast.L_end
+      parentName: breast.L
+      position: {x: -0, y: 0.001392, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: breast.R
+      parentName: spine.003
+      position: {x: 0.0011839999, y: -0.00004881079, z: -0.00042756848}
+      rotation: {x: -0.000000053512483, y: 0.6969362, z: 0.71713316, w: -0.000000053271993}
+      scale: {x: 1, y: 0.99999964, z: 0.99999994}
+    - name: breast.R_end
+      parentName: breast.R
+      position: {x: -0, y: 0.001392, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pelvis.L
+      parentName: spine
+      position: {x: -0, y: 2.1420418e-10, z: 7.4505804e-11}
+      rotation: {x: -0.15245514, y: 0.79333067, z: 0.28550395, w: 0.51562715}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: pelvis.L_end
+      parentName: pelvis.L
+      position: {x: -0, y: 0.0020733816, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pelvis.R
+      parentName: spine
+      position: {x: -0, y: 2.1420418e-10, z: 7.4505804e-11}
+      rotation: {x: -0.15245514, y: -0.79333067, z: -0.28550395, w: 0.51562715}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: pelvis.R_end
+      parentName: pelvis.R
+      position: {x: -0, y: 0.0020733816, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: thigh.L
+      parentName: spine
+      position: {x: -0.0009799999, y: 0.0007081852, z: 0.00025942278}
+      rotation: {x: 0.99442756, y: -0.014616357, z: -0.012093035, w: 0.103701554}
+      scale: {x: 1, y: 1, z: 1.0000002}
+    - name: shin.L
+      parentName: thigh.L
+      position: {x: -1.5133991e-11, y: 0.0057811565, z: -6.984919e-11}
+      rotation: {x: 0.022441993, y: 0.029260287, z: -0.033559836, w: 0.99875623}
+      scale: {x: 0.99999994, y: 0.9999998, z: 0.9999999}
+    - name: foot.L
+      parentName: shin.L
+      position: {x: -6.984919e-12, y: 0.003776213, z: 8.1490724e-11}
+      rotation: {x: -0.52485275, y: -0.023931718, z: 0.009134305, w: 0.85080755}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1}
+    - name: toe.L
+      parentName: foot.L
+      position: {x: 4.401055e-12, y: 0.0019387327, z: 3.6477557e-11}
+      rotation: {x: 0.0000000037005679, y: 0.96176696, z: -0.2738692, w: -0.00000007955292}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+    - name: toe.L_end
+      parentName: toe.L
+      position: {x: -0, y: 0.00067200005, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: heel.02.L
+      parentName: foot.L
+      position: {x: 0.00037999998, y: 0.00084267, z: 0.00087577617}
+      rotation: {x: 0.68007195, y: -0.6800719, z: 0.1936548, w: 0.1936548}
+      scale: {x: 1, y: 1, z: 1}
+    - name: heel.02.L_end
+      parentName: heel.02.L
+      position: {x: -0, y: 0.0008, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: thigh.R
+      parentName: spine
+      position: {x: 0.0009799999, y: 0.0007081852, z: 0.00025942278}
+      rotation: {x: 0.99442756, y: 0.014616357, z: 0.012093035, w: 0.103701554}
+      scale: {x: 1, y: 1, z: 1.0000002}
+    - name: shin.R
+      parentName: thigh.R
+      position: {x: 1.5133991e-11, y: 0.0057811565, z: -6.984919e-11}
+      rotation: {x: 0.022441993, y: -0.029260287, z: 0.033559836, w: 0.99875623}
+      scale: {x: 0.99999994, y: 0.9999998, z: 0.9999999}
+    - name: foot.R
+      parentName: shin.R
+      position: {x: 6.984919e-12, y: 0.003776213, z: 8.1490724e-11}
+      rotation: {x: -0.52485275, y: 0.023931718, z: -0.009134305, w: 0.85080755}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1}
+    - name: toe.R
+      parentName: foot.R
+      position: {x: -4.401055e-12, y: 0.0019387327, z: 3.6477557e-11}
+      rotation: {x: -0.0000000037005679, y: 0.96176696, z: -0.2738692, w: 0.00000007955292}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+    - name: toe.R_end
+      parentName: toe.R
+      position: {x: -0, y: 0.00067200005, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: heel.02.R
+      parentName: foot.R
+      position: {x: -0.00037999998, y: 0.00084267, z: 0.00087577617}
+      rotation: {x: 0.68007195, y: 0.6800719, z: -0.1936548, w: 0.1936548}
+      scale: {x: 1, y: 1, z: 1}
+    - name: heel.02.R_end
+      parentName: heel.02.R
+      position: {x: -0, y: 0.0008, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Object_11.001
+      parentName: human_shorts(Clone)
+      position: {x: 2.3283064e-10, y: -0.0000000037252903, z: -2.1827873e-11}
+      rotation: {x: 1, y: 0, z: 0, w: -0.0000000754979}
+      scale: {x: -0.009090911, y: -0.009090911, z: -0.009090911}
+    - name: Object_13.488
+      parentName: human_shorts(Clone)
+      position: {x: 4.656613e-10, y: -0.000000007450581, z: -5.820766e-11}
+      rotation: {x: 0.0000000842937, y: 0, z: -0, w: 1}
+      scale: {x: 0.0090909125, y: 0.009090913, z: 0.009090913}
+    - name: Vest_2.003
+      parentName: human_shorts(Clone)
+      position: {x: -0.0030471974, y: 1.0916843, z: -0.05885156}
+      rotation: {x: 0.000000037748958, y: 0, z: -0, w: 1}
+      scale: {x: 0.30807778, y: 0.30807784, z: 0.30807784}
+    - name: Vest_2
+      parentName: Vest_2.003
+      position: {x: 0.009822334, y: -3.5411224, z: 0.2348438}
+      rotation: {x: 0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 0.01260099, y: 0.012600992, z: 0.012600992}
+    - name: Vest_2.004
+      parentName: Vest_2.003
+      position: {x: 0.009822334, y: -3.5411224, z: 0.2348438}
+      rotation: {x: 0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 0.01260099, y: 0.012600992, z: 0.012600992}
+    - name: Vest_2.005
+      parentName: Vest_2.003
+      position: {x: 0.009822334, y: -3.5411224, z: 0.2348438}
+      rotation: {x: 0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 0.01260099, y: 0.012600992, z: 0.012600992}
+    - name: Vest_2.006
+      parentName: Vest_2.003
+      position: {x: 0.009822334, y: -3.5411224, z: 0.2348438}
+      rotation: {x: 0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 0.01260099, y: 0.012600992, z: 0.012600992}
+    - name: Vest_2.007
+      parentName: Vest_2.003
+      position: {x: 0.009822334, y: -3.5411224, z: 0.2348438}
+      rotation: {x: 0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 0.01260099, y: 0.012600992, z: 0.012600992}
+    - name: Vest_2.008
+      parentName: Vest_2.003
+      position: {x: 0.009822334, y: -3.5411224, z: 0.2348438}
+      rotation: {x: 0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 0.01260099, y: 0.012600992, z: 0.012600992}
+    - name: Vest_2.009
+      parentName: Vest_2.003
+      position: {x: 0.009822334, y: -3.5411224, z: 0.2348438}
+      rotation: {x: 0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 0.01260099, y: 0.012600992, z: 0.012600992}
+    - name: Vest_2.010
+      parentName: Vest_2.003
+      position: {x: 0.009822334, y: -3.5411224, z: 0.2348438}
+      rotation: {x: 0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 0.01260099, y: 0.012600992, z: 0.012600992}
+    - name: Vest_2.011
+      parentName: Vest_2.003
+      position: {x: 0.009822334, y: -3.5411224, z: 0.2348438}
+      rotation: {x: 0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 0.01260099, y: 0.012600992, z: 0.012600992}
+    - name: Vest_2.012
+      parentName: Vest_2.003
+      position: {x: 0.009822334, y: -3.5411224, z: 0.2348438}
+      rotation: {x: 0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 0.01260099, y: 0.012600992, z: 0.012600992}
+    - name: Vest_2.013
+      parentName: Vest_2.003
+      position: {x: 0.009822334, y: -3.5411224, z: 0.2348438}
+      rotation: {x: 0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 0.01260099, y: 0.012600992, z: 0.012600992}
+    - name: Vest_2.014
+      parentName: Vest_2.003
+      position: {x: 0.009822334, y: -3.5411224, z: 0.2348438}
+      rotation: {x: 0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 0.01260099, y: 0.012600992, z: 0.012600992}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
