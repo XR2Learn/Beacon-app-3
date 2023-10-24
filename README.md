@@ -10,6 +10,8 @@ Beacon Application 3 is entirely based on the [Perception Package](https://githu
 
 ## Installation
 
+Large models of the project are available [here](https://drive.google.com/drive/folders/1X5IiqP73NPqwTjkL7KiycRXF4Z2NAhHN?usp=sharing). 
+Download the three .fbx models and place each one inside path: **Assets/ForeGround/Humans/[Νame_Οf Μodel]/**
 ## Documantation 
 
 The documentation relative to this project can be found on the Wiki page of this repository.
