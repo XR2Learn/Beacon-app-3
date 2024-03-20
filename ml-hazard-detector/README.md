@@ -1,3 +1,5 @@
+![XR2Learn](https://github.com/XR2Learn/.github/blob/main/images/XR2Learn%20logo.png)
+
 # ML Hazard Detection
 
 This repository provides all the essential tools and procedures required to prepare and merge the synthetic and CHV dataset into a format compatible with the YOLOv5 model for training purposes.

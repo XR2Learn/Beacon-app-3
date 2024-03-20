@@ -20,7 +20,7 @@ This repository is separated into two different directories
 
 [2. hazard-detection-main](./ml-hazard-detector)
 
-- [a. dataset-formatter](./ml-hazard-detector/dataset-formatter/)
+- [dataset-formatter](./ml-hazard-detector/dataset-formatter/)
 
 #### Repo no. 1: synthetic-dataset-generator
 
