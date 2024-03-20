@@ -8,4 +8,4 @@ The subsequent steps are aimed at preparing the dataset for training an object d
 
 ##
 
-#### More info about this project, its architecture and how to use it are provided in the repo's wiki page
+#### More info about this project, its architecture and how to use it are provided in the repo's [wiki page](https://github.com/XR2Learn/.github/wiki/Beacon-Application-3)

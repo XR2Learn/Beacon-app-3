@@ -8,4 +8,4 @@ Through the Unity game engine, 3D models of working employees equipped with diff
 
 ##
 
-#### More info about this project, its architecture and how to use it are provided in the repo's wiki page
+#### More info about this project, its architecture and how to use it are provided in the repo's [wiki page](https://github.com/XR2Learn/.github/wiki/Beacon-Application-3)
